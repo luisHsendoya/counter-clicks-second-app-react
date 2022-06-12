@@ -1,0 +1,11 @@
+.btn-click:hover {
+    background-color: blue;
+    color: #333;
+    font-weight: bolder;
+}
+
+.btn-restart:hover {
+    background-color: #FF5B00;
+    color: #333;
+    font-weight: bolder;
+}
